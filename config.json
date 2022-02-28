@@ -3,8 +3,8 @@
   "local_address": "127.0.0.1",
   "scheme": "ws",
   "local_port": 1080,
-  "remote_port": 8080,
-  "password": "`try*(^^$some^$%^complex>:<>?~password/",
+  "remote_port": 80,
+  "password": "Zxl116699",
   "timeout": 600,
   "method": "rc4-md5"
 }
