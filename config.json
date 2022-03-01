@@ -4,7 +4,7 @@
   "scheme": "wss",
   "local_port": 1080,
   "remote_port": 80,
-  "password": "Zxl116699",
+  "password": "password",
   "timeout": 600,
   "method": "rc4-md5"
 }
